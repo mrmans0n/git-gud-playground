@@ -1,3 +1,4 @@
 
 normal test line 1
 normal test line 2
+absorb normal line
