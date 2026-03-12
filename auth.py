@@ -1,1 +1,1 @@
-import logging\n\ndef authenticate(user, password):\n    logging.info(user)\n    return validate(user, password)
+def authenticate(user, password):\n    return validate(user, password)
